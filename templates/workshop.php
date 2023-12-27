@@ -47,3 +47,4 @@
 <?php partial(("templates/footer"), $GLOBALS["project_root"]); ?>
 </body>
 </html>
+ 
